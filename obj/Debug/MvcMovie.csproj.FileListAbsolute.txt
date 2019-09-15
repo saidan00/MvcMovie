@@ -106,3 +106,4 @@ C:\Users\Admin\source\repos\MvcMovie\obj\Debug\MvcMovie.pdb
 C:\Users\Admin\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 C:\Users\Admin\source\repos\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.cache
 C:\Users\Admin\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Admin\source\repos\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
